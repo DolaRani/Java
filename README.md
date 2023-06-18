@@ -1,6 +1,7 @@
 # Java swapping 2 value
 
 // code 
+
 public class swap {
     public static void main( String[] args){
 
